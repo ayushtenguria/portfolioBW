@@ -1,5 +1,7 @@
 
 import { TestimonialCard } from "./TestimonialCard";
+import { Swiper, SwiperSlide } from 'swiper/react';
+import 'swiper/css';
 
 export const Testimonial = () => {
   return (

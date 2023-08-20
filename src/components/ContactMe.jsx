@@ -5,11 +5,11 @@ import instagram from "../animations/Instagram.json"
 
 export const ContactMe = () => {
   return (
-    <section>
+    <section id="connect">
       <div>
         <div className="flex justify-center">
           <h1 className="text-3xl md:text-5xl font-semibold">
-            Connect with Me{" "}
+            Connect with Me...{" "}
           </h1>
         </div>
 

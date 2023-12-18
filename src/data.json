@@ -2,22 +2,33 @@
   "projects": [
     {
       "title": "Moksha-Inno 2023",
-      "imgURL": "https://example.com/project1.jpg",
+      "imgURL": "https://i.ibb.co/fVWWRhM/Screenshot-from-2023-12-19-04-25-44.png",
       "description": "This is the description for Project 1.",
-      "link": "https://example.com/project1"
+      "link": "https://moksha-innovision-2023.vercel.app/"
     },
     {
-      "title": "Blog",
-      "imgURL": "https://example.com/project2.jpg",
+      "title": "Personal Blog",
+      "imgURL": "https://i.ibb.co/Gk5wjX5/Screenshot-from-2023-12-19-04-31-47.png",
       "description": "This is the description for Project 2.",
-      "link": "https://example.com/project2"
+      "link": "https://blog.ayushtenguria.com"
     },
     {
       "title": "TrelloAi",
-      "imgURL": "https://example.com/project3.jpg",
+      "imgURL": "https://i.ibb.co/Q9JTN5j/Screenshot-from-2023-12-19-04-30-31.png",
       "description": "This is the description for Project 3.",
-      "link": "https://example.com/project3"
+      "link": "https://trelloai.ayushtenguria.com"
+    },
+    {
+      "title": "TechWeek 2023",
+      "imgURL": "https://i.ibb.co/mSDDrQN/Screenshot-from-2023-12-19-04-39-34.png",
+      "description": "This is the description for Project 3.",
+      "link": "https://techweek.ieeensut.com"
+    },
+    {
+      "title": "HackNsut",
+      "imgURL": "https://i.ibb.co/ypJft11/Screenshot-from-2023-12-19-04-43-02.png",
+      "description": "This is the description for Project 3.",
+      "link": "https://hacknsut.ieeensut.com"
     }
-    
   ]
 }

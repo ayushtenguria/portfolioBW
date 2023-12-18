@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 export const Navbar = () => {
   return (
     <>
@@ -7,10 +9,12 @@ export const Navbar = () => {
         </div>
         <div className="flex">
           <ul className="flex justify-between space-x-6">
-            <li>Projects</li>
-            <li>Blog</li>
-            <li>About</li>
-            <li>Contact Me</li>
+            <li>
+              <a className="hover:text-blue-500  transition-all ease-linear" href="/allProjects">Projects</a>
+            </li>
+            <li><a className="hover:text-blue-500  transition-all ease-linear" href="https://blog.ayushtenguria.com">Blog</a></li>
+            {/* <li>About</li>
+            <li>Contact Me</li> */}
           </ul>
         </div>
       </nav>

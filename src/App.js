@@ -12,7 +12,7 @@ const Root = () => (
     <Header />
     <Services />
     <Portfolio />
-    <Testimonial />
+    {/* <Testimonial /> */}
     <ContactMe />
   </>
 );

@@ -6,7 +6,7 @@ export const Portfolio = () => {
   const latestProjects = projectsData.projects.slice(0, 3); // Show only the latest 3 projects
 
   return (
-    <div className="mb-20">
+    <div className="mb-20 ">
       <div className=" flex justify-center align-middle mb-20">
           <h1 className="text-3xl md:text-5xl font-semibold">My Work </h1>
         </div>

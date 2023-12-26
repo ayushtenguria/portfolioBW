@@ -1,6 +1,12 @@
 {
   "projects": [
     {
+      "title": "IEEE DSSYWC 2023",
+      "imgURL": "https://i.ibb.co/wMCpzkR/Screenshot-from-2023-12-26-22-10-34.png",
+      "description": "This is the description for Project 1.",
+      "link": "https://master.d1e483y2k24bma.amplifyapp.com/"
+    },
+    {
       "title": "Moksha-Inno 2023",
       "imgURL": "https://i.ibb.co/fVWWRhM/Screenshot-from-2023-12-19-04-25-44.png",
       "description": "This is the description for Project 1.",
@@ -18,6 +24,7 @@
       "description": "This is the description for Project 3.",
       "link": "https://trelloai.ayushtenguria.com"
     },
+
     {
       "title": "TechWeek 2023",
       "imgURL": "https://i.ibb.co/mSDDrQN/Screenshot-from-2023-12-19-04-39-34.png",
